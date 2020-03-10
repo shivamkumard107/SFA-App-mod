@@ -1,7 +1,7 @@
 # SFA-App-mod
 
 ## ANDROID APPLICATION FOR SITA FINE ARTS PVT. LTD. 
-
+[Download Specifications](https://github.com/shivamkumard107/SFA-App-mod/raw/191fa586cb6c6142269c322f9abeb3843d41e1c4/SFA%20PDF.pdf)
 ## KEY FEATURES:
 1. MAKES THE WORK-FLOW SMOOTHER. 
 2. DATA COLLECTED ON CLOUD. 
